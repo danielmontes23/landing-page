@@ -25,5 +25,22 @@ p{
 
 h2{
   color: white;
+  text-align: center;
 }
 
+ul#myLinks {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+ul#myLinks li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

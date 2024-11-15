@@ -30,7 +30,18 @@
 <body>
 
     <main>
+    
+    <div id="datetime"></div>
 
+    <script>
+        document.addEventListener('DOMContentLoaded', (event) => {
+            const datetimeElement = document.getElementById('datetime');
+            const now = new Date();
+            const formattedDate = now.toLocaleDateString();
+            const formattedTime = now.toLocaleTimeString();
+            datetimeElement.textContent = `Today's Date: ${formattedDate}, ${formattedTime}`;
+        });
+    </script>
     <h1>Daniel I. Montes</h1>
 
     <img src="profilepic.jpg" alt="My profile pic">

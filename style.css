@@ -1,7 +1,8 @@
 /* Have fun. This is your site. */
 
 body {
-  background: grey;
+  background: url('https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg') no-repeat center center fixed;
+  background-size: cover;
 }
 
 /* Main Container */
@@ -15,16 +16,16 @@ main {
 }
 
 h1{
-  color: white;
+  color: black;
   text-align: center;
 }
 
 p{
-  color: white;
+  color: black;
 }
 
 h2{
-  color: white;
+  color: black;
   text-align: center;
 }
 
@@ -43,4 +44,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+a {
+  color: black;
 }

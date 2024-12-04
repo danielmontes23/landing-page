@@ -15,9 +15,10 @@ html {
 
 /* Responsive Images */
 img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
     display: block;
+    margin: 0 auto;
 }
 
 /* Responsive typography */
@@ -59,7 +60,7 @@ h6 {
 /* Styling for date and time */
 #datetime {
     font-style: italic;
-    color: white;
+    color: black;
     font-weight: bold;
     text-align: center;
     font-family: Arial, sans-serif;

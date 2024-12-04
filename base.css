@@ -70,11 +70,6 @@ h2 {
     margin-top: 20px;
 }
 
-p a {
-    color: white;
-    text-decoration: none;
-}
-
 p a:hover {
     text-decoration: underline;
 }

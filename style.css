@@ -1,7 +1,7 @@
 /* Have fun. This is your site. */
 
 body {
-  background: url('https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg') no-repeat center center fixed;
+  background: url('https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?cs=srgb&dl=pexels-adrien-olichon-1257089-2387793.jpg&fm=jpg') no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -16,16 +16,16 @@ main {
 }
 
 h1{
-  color: black;
+  color: white;
   text-align: center;
 }
 
 p{
-  color: black;
+  color: white;
 }
 
 h2{
-  color: black;
+  color: white;
   text-align: center;
 }
 
@@ -46,5 +46,5 @@ img {
   margin-right: auto;
 }
 a {
-  color: black;
+  color: white;
 }
